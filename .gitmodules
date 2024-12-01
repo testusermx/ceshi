@@ -1,0 +1,6 @@
+[submodule "docs/a"]
+	path = docs/a
+	url = https://github.com/testusermx/A_test.git
+[submodule "docs/dl"]
+	path = docs/dl
+	url = https://github.com/testusermx/DL_test.git
