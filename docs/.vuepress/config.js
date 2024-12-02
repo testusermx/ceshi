@@ -8,7 +8,7 @@ export default defineUserConfig({
 
   title: 'VuePress',
   description: '我的个人网站',
-
+  base: '/ceshi/',
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
